@@ -1,1 +1,1 @@
-# nova-.github-io
+# nova.github.io
